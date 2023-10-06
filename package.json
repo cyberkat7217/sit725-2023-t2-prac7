@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2023-t2-prac7",
+  "version": "1.0.0",
+  "description": "SIT725 T2 Practical7 ",
+  "main": "dbConnect.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberkat7217/sit725-2023-t2-prac7.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Mongodb"
+  ]
+}
